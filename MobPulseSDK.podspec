@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "MobPulseSDK"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "MobPulseSDK 聚合广告sdk"
 
   # This description is used to generate tags and improve search results.
@@ -87,7 +87,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "MobPulseSDK", "MobPulseSDK/classes/*.{h,m}"
+   # spec.source_files  = "classes", "MobPulseSDK/classes/*.{h,m}"
    #  spec.exclude_files = "Classes/Exclude"
 
   # spec.public_header_files = "Classes/**/*.h"
