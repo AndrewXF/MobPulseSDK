@@ -30,7 +30,6 @@
 /// @param supplier 被加载的渠道
 /// @param error 异常信息
 - (id)easyAdBaseAdapterLoadSuppluer:(nullable MobPulseSDKSupplier *)supplier error:(nullable NSError *)error;
-
 @end
 
 #endif /* MobPulseSupplierDelegate_h */

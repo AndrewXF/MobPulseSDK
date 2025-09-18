@@ -8,10 +8,6 @@
 		<data>
 		MuVO1YS+Xn/fucEOy/peMaGrP5Q=
 		</data>
-		<key>Headers/ILAdDataCommonInfoMananger.h</key>
-		<data>
-		R9SNHOn14CQaPKC4hGsBMVtjmUQ=
-		</data>
 		<key>Headers/MobPulseAdapterDelegate.h</key>
 		<data>
 		NxAfIMHQsJsb9wYhHfeQGNQEn8Q=
@@ -108,33 +104,25 @@
 		<data>
 		XkNR2zKxz020UOgGatrius6potI=
 		</data>
-		<key>Headers/MobPulseSDKClassInfo.h</key>
-		<data>
-		/eIyDjA2mRBs7S2vKcoaF9YrLeg=
-		</data>
 		<key>Headers/MobPulseSplash.h</key>
 		<data>
-		rPfET4aSgRM/Y8ZmoTBUoAskt2E=
+		itI2/txcZhodZ9o1WCQWkEaGYQ4=
 		</data>
 		<key>Headers/MobPulseSplashDelegate.h</key>
 		<data>
-		F2VCLj0jjZNeVY592G0zE0E7zqw=
+		5lbAGfwdLRFMTkuBaKVaVmyZtZ8=
 		</data>
 		<key>Headers/MobPulseSupplierDelegate.h</key>
 		<data>
-		xpUR1D4PtXvlhu1PRYhuNg2xw4s=
+		040zmJhv6wa62AJT4PV47Q4FUVc=
 		</data>
 		<key>Headers/MobPulseSupplierModel.h</key>
 		<data>
 		5vyEaUQzKwAzvnmmcSo2ofvp8wg=
 		</data>
-		<key>Headers/NSObject+MobPulseSDKModel.h</key>
-		<data>
-		1lGVx9h/IkbZF/UeMoGrICpBIoY=
-		</data>
 		<key>Info.plist</key>
 		<data>
-		viLnPGLx8af6z0Y0jglgb2C/YdI=
+		Z3RMjUCMjqsWQEsBB8y5dhw7mMA=
 		</data>
 		<key>MSAdSDK.bundle/Info.plist</key>
 		<data>
@@ -260,17 +248,6 @@
 			<key>hash2</key>
 			<data>
 			2UMgypi8Ltg25HFQNR0paAK5OPqvNbLf44bGNqbUynY=
-			</data>
-		</dict>
-		<key>Headers/ILAdDataCommonInfoMananger.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			R9SNHOn14CQaPKC4hGsBMVtjmUQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			n1aSakIyv9kiWeh+sS9mFSGWL9kBoC37KeCBRUEyt50=
 			</data>
 		</dict>
 		<key>Headers/MobPulseAdapterDelegate.h</key>
@@ -537,48 +514,37 @@
 			Yn5mUsiJiE7Oo4/CXN9VLhBiqIqpB/kIgJIHhk/mEBw=
 			</data>
 		</dict>
-		<key>Headers/MobPulseSDKClassInfo.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			/eIyDjA2mRBs7S2vKcoaF9YrLeg=
-			</data>
-			<key>hash2</key>
-			<data>
-			2dhH095qamv9NwctvB65n3c5Ktbrv/C92LmRYFHmS7c=
-			</data>
-		</dict>
 		<key>Headers/MobPulseSplash.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			rPfET4aSgRM/Y8ZmoTBUoAskt2E=
+			itI2/txcZhodZ9o1WCQWkEaGYQ4=
 			</data>
 			<key>hash2</key>
 			<data>
-			MWp9952NuUFLpjyC3oomZGT9fey8FvIdtPc96Idz9vU=
+			FuWJ08vJi0EQRWrESeLjIARfqtpEdewL2Uls4ODTAng=
 			</data>
 		</dict>
 		<key>Headers/MobPulseSplashDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			F2VCLj0jjZNeVY592G0zE0E7zqw=
+			5lbAGfwdLRFMTkuBaKVaVmyZtZ8=
 			</data>
 			<key>hash2</key>
 			<data>
-			rU75gLwUsj73RhAzX23D+SdqDeVLKPStfZpFcP8hVjc=
+			x40PkWAm80+O2hfGPsZhiiEGVL/gvESFjV4vmS7RszM=
 			</data>
 		</dict>
 		<key>Headers/MobPulseSupplierDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			xpUR1D4PtXvlhu1PRYhuNg2xw4s=
+			040zmJhv6wa62AJT4PV47Q4FUVc=
 			</data>
 			<key>hash2</key>
 			<data>
-			uAWmmacTzzJkBI9yJnun9Vcl4XHpRSEZdrIOJHzktd4=
+			kh+ns1BV21gnREALa6l3rLnPQh9/EbozjdzlMm7bP+Y=
 			</data>
 		</dict>
 		<key>Headers/MobPulseSupplierModel.h</key>
@@ -590,17 +556,6 @@
 			<key>hash2</key>
 			<data>
 			P1SaqeszVpdMK1nWPaI1Mh/5nNN57VGDuToxzKHgTqU=
-			</data>
-		</dict>
-		<key>Headers/NSObject+MobPulseSDKModel.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			1lGVx9h/IkbZF/UeMoGrICpBIoY=
-			</data>
-			<key>hash2</key>
-			<data>
-			LdYRGe/QW5mCOYgAaypOtijd3DMDqevZZdupuZQ+0R4=
 			</data>
 		</dict>
 		<key>MSAdSDK.bundle/Info.plist</key>

@@ -22,9 +22,6 @@
 /// 广告Logo
 @property(nonatomic, strong) UIImage *logoImage;
 
-/// 广告Logo 高度占全屏幕的多少，最多屏幕高度的25%，不得高于25%
-@property(nonatomic, assign) CGFloat logoHeight;
-
 /// 广告未加载出来时的占位图
 @property(nonatomic, strong) UIImage *backgroundImage;
 
