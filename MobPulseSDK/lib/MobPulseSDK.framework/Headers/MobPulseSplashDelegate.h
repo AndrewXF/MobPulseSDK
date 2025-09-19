@@ -14,7 +14,7 @@
 /// 广告点击跳过
 - (void)mobPulseSplashOnAdSkipClicked;
 
-/// 广告倒计时结束回调 百度广告不支持该回调
+/// 广告倒计时结束回调 -不同广告可能不回调，仅供参考
 - (void)mobPulseSplashOnAdCountdownToZero;
 
 
